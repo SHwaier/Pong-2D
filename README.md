@@ -22,7 +22,7 @@ sudo apt install gradle
 #### Windows
 
 - **Java Installation**
-  1. Download the JDK installer from [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or [AdoptOpenJDK](https://adoptopenjdk.net/).
+  1. Download the JDK installer from [Oracle](https://www.oracle.com/java/technologies/downloads/) or [AdoptOpenJDK](https://adoptopenjdk.net/).
   2. Run the installer and follow the instructions.
   3. Add JDK's `bin` folder to the system's `Path` variable (e.g., `C:\Program Files\Java\jdk-11\bin`).
 
